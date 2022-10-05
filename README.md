@@ -1,6 +1,11 @@
 # Treasure-island-using-python
 
 ## This is a basic project of python. 
+
+
+![Screenshot (8)](https://user-images.githubusercontent.com/78869626/193995484-0697529f-9f02-4aa8-8f6d-2b0cc89ddc05.png)
+
+
  _                                     _     _                 _ 
 | |                                   (_)   | |               | |
 | |_ _ __ ___  __ _ ___ _   _ _ __ ___ _ ___| | __ _ _ __   __| |
