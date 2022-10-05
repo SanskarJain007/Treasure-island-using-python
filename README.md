@@ -1,6 +1,6 @@
 # Treasure-island-using-python
 
-##This is a basic project of python. 
+## This is a basic project of python. 
  _                                     _     _                 _ 
 | |                                   (_)   | |               | |
 | |_ _ __ ___  __ _ ___ _   _ _ __ ___ _ ___| | __ _ _ __   __| |
